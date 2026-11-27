@@ -55,7 +55,11 @@ Marketing and campaign analytics, Power BI/Excel dashboards, SQL and Python data
 
 ### Featured projects
 
-Portfolio projects are being added here. Check the **pinned repositories** below for the latest work.
+| Project | What it shows | Tools |
+|---|---|---|
+| 📊 **[Marketing Campaign Performance Analytics](https://github.com/freelanceujala-data/campaign-analytics)** | Cleaned a messy 3,698-row ad-platform export, analysed six months of Facebook, Instagram, Google Ads and TikTok spend with SQL, and turned it into an Excel KPI report, a dashboard and budget recommendations | Python · Pandas · SQL · Excel · Matplotlib |
+
+More projects are on the way. See the **pinned repositories** below.
 
 ---
 
